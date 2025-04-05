@@ -3,7 +3,7 @@ const data= [
       correctAnswer: 'Three ',
       options: ['Two', 'Three ', 'Four', 'Five'],
       question:
-        "How many pieces of bun are in a Mcdonald's Big Mac?",
+        "How many states are in India ",
     },
     {
       correctAnswer: 'L. Frank Baum',
