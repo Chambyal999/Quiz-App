@@ -3,7 +3,7 @@ const data= [
       correctAnswer: 'Three ',
       options: ['Two', 'Three ', 'Four', 'Five'],
       question:
-        "How many states are in United India ",
+        "How many countries are in world ",
     },
     {
       correctAnswer: 'L. Frank Baum',
